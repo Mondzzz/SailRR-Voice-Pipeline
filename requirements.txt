@@ -1,0 +1,9 @@
+torch
+openai-whisper
+transformers
+TTS
+sounddevice
+scipy
+numpy
+bitsandbytes
+accelerate
